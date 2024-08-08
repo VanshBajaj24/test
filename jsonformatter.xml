@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
+<mobiles>
+    <mobile>
+        <brand>Apple</brand>
+        <model>iPhone 14</model>
+        <price>999</price>
+        <specs>
+            <display>6.1 inch</display>
+            <battery>3095 mAh</battery>
+            <camera>12 MP</camera>
+        </specs>
+    </mobile>
+    <mobile>
+        <brand>Samsung</brand>
+        <model>Galaxy S22</model>
+        <price>799</price>
+        <specs>
+            <display>6.2 inch</display>
+            <battery>3700 mAh</battery>
+            <camera>50 MP</camera>
+        </specs>
+    </mobile>
+    <mobile>
+        <brand>Google</brand>
+        <model>Pixel 7</model>
+        <price>599</price>
+        <specs>
+            <display>6.3 inch</display>
+            <battery>4000 mAh</battery>
+            <camera>48 MP</camera>
+        </specs>
+    </mobile>
+</mobiles>
+
+<!-- <?xml version="1.0" encoding="UTF-8" ?>
 <mobile>
     <brand>Apple</brand>
     <model>iPhone SE</model>
@@ -7739,3 +7773,4 @@
     <discount_percent>0.36</discount_percent>
     <sales>1.53</sales>
 </429>
+ -->
