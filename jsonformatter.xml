@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<0>
+< mobile >
     <brand>Apple</brand>
     <model>iPhone SE</model>
     <base_color>Black</base_color>
@@ -16,7 +16,7 @@
     <sales_price>32999</sales_price>
     <discount_percent>0.17</discount_percent>
     <sales>127.52</sales>
-</0>
+</mobile>
 <1>
     <brand>Apple</brand>
     <model>iPhone 12 Mini</model>
