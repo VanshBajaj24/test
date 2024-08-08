@@ -1,33 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mobiles>
-    <mobile>
-        <brand>Apple</brand>
-        <model>iPhone 14</model>
-        <price>999</price>
-        <specs>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://example.com/apple/iphone-14</loc>
+        <data>
             <display>6.1 inch</display>
             <battery>3095 mAh</battery>
             <camera>12 MP</camera>
-        </specs>
-    </mobile>
-    <mobile>
-        <brand>Samsung</brand>
-        <model>Galaxy S22</model>
-        <price>799</price>
-        <specs>
+        </data>
+        <price>999</price>
+    </url>
+    <url>
+        <loc>https://example.com/samsung/galaxy-s22</loc>
+        <data>
             <display>6.2 inch</display>
             <battery>3700 mAh</battery>
             <camera>50 MP</camera>
-        </specs>
-    </mobile>
-    <mobile>
-        <brand>Google</brand>
-        <model>Pixel 7</model>
-        <price>599</price>
-        <specs>
+        </data>
+        <price>799</price>
+    </url>
+    <url>
+        <loc>https://example.com/google/pixel-7</loc>
+        <data>
             <display>6.3 inch</display>
             <battery>4000 mAh</battery>
             <camera>48 MP</camera>
-        </specs>
-    </mobile>
-</mobiles>
+        </data>
+        <price>599</price>
+    </url>
+</urlset>
